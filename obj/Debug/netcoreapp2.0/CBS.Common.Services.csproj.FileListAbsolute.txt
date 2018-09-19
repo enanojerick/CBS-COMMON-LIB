@@ -1,0 +1,17 @@
+C:\Users\Agent\Documents\GitHub\Cornerstone\Common-Lib\CBS.Common.Services\bin\Debug\netcoreapp2.0\CBS.Common.Services.deps.json
+C:\Users\Agent\Documents\GitHub\Cornerstone\Common-Lib\CBS.Common.Services\bin\Debug\netcoreapp2.0\CBS.Common.Services.dll
+C:\Users\Agent\Documents\GitHub\Cornerstone\Common-Lib\CBS.Common.Services\bin\Debug\netcoreapp2.0\CBS.Common.Services.pdb
+C:\Users\Agent\Documents\GitHub\Cornerstone\Common-Lib\CBS.Common.Services\obj\Debug\netcoreapp2.0\CBS.Common.Services.csproj.CoreCompileInputs.cache
+C:\Users\Agent\Documents\GitHub\Cornerstone\Common-Lib\CBS.Common.Services\obj\Debug\netcoreapp2.0\CBS.Common.Services.AssemblyInfoInputs.cache
+C:\Users\Agent\Documents\GitHub\Cornerstone\Common-Lib\CBS.Common.Services\obj\Debug\netcoreapp2.0\CBS.Common.Services.AssemblyInfo.cs
+C:\Users\Agent\Documents\GitHub\Cornerstone\Common-Lib\CBS.Common.Services\obj\Debug\netcoreapp2.0\CBS.Common.Services.dll
+C:\Users\Agent\Documents\GitHub\Cornerstone\Common-Lib\CBS.Common.Services\obj\Debug\netcoreapp2.0\CBS.Common.Services.pdb
+D:\GitHub\CBS-COMMON-LIB\bin\Debug\netcoreapp2.0\CBS.Common.Services.deps.json
+D:\GitHub\CBS-COMMON-LIB\bin\Debug\netcoreapp2.0\CBS.Common.Services.dll
+D:\GitHub\CBS-COMMON-LIB\bin\Debug\netcoreapp2.0\CBS.Common.Services.pdb
+D:\GitHub\CBS-COMMON-LIB\obj\Debug\netcoreapp2.0\CBS.Common.Services.csprojAssemblyReference.cache
+D:\GitHub\CBS-COMMON-LIB\obj\Debug\netcoreapp2.0\CBS.Common.Services.csproj.CoreCompileInputs.cache
+D:\GitHub\CBS-COMMON-LIB\obj\Debug\netcoreapp2.0\CBS.Common.Services.AssemblyInfoInputs.cache
+D:\GitHub\CBS-COMMON-LIB\obj\Debug\netcoreapp2.0\CBS.Common.Services.AssemblyInfo.cs
+D:\GitHub\CBS-COMMON-LIB\obj\Debug\netcoreapp2.0\CBS.Common.Services.dll
+D:\GitHub\CBS-COMMON-LIB\obj\Debug\netcoreapp2.0\CBS.Common.Services.pdb
